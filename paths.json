@@ -1,1 +1,7 @@
-
+{
+  "mappings": [
+    "/content/universal/:/",
+    "/content/universal/metadata:/metadata.json",
+    "/content/universal/configuration:/.helix/config.json"
+  ]
+}
